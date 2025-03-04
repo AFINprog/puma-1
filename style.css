@@ -1,0 +1,286 @@
+
+        .hero {
+            background: linear-gradient(to right, #a8e6cf, #dcedc1);
+            padding: 80px 0;
+            text-align: center;
+            color: #000000;
+        }
+        .hero img {
+            max-width: 100%;
+            height: auto;
+        }
+        .free-return {
+            background: #fafafa;
+            color: #000000;
+            text-align: center;
+            padding: 1px 1px;
+            font-weight: bold;
+            
+            
+        }
+        .btn-custom {
+            background: black;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+        }
+
+        .top-banner p{
+            text-align: center;
+            align-items: center;
+        }
+
+
+
+.footer {
+    background: #111;
+    color: #fff;
+    padding: 40px 0;
+    font-size: 14px;
+}
+
+.footer h5 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer ul li {
+    margin-bottom: 8px;
+}
+
+.footer ul li a {
+    color: #ccc;
+    text-decoration: none;
+}
+
+.footer ul li a:hover {
+    color: #fff;
+}
+
+.social-icons a {
+    color: white;
+    font-size: 20px;
+    margin-right: 15px;
+    transition: 0.3s;
+}
+
+.social-icons a:hover {
+    color: #d3d3d3;
+}
+
+.explore-buttons button {
+    margin-right: 10px;
+    padding: 10px 20px;
+    font-weight: bold;
+    position: relative;
+    image-rendering: url('puma-logo-png-1242.png');
+}
+
+.country-section {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.country-section button {
+    background: transparent;
+    border: 1px solid white;
+    color: white;
+    padding: 8px 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.payment-methods {
+    display: flex;
+    justify-content: start;
+    gap: 15px;
+    margin-top: 20px;
+    
+}
+
+.payment-methods img {
+    height: 25px;
+}
+
+.copyright {
+    text-align: end;
+    margin-top: 20px;
+    font-size: 12px;
+    color: #ccc;
+}
+
+.copyright a {
+    color: white;
+    text-decoration: none;
+}
+
+.copyright a:hover {
+    text-decoration: underline;
+}
+
+
+.country-section {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    
+}
+
+.country-box {
+    display: flex;
+    align-items: center;
+    background: #111;  /* Dark background like your image */
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    width: 130px;
+    justify-content: center;
+    border: 1px solid #555; /* Subtle border like your screenshot */
+    top: 20px;
+}
+
+.country-box img {
+    width: 25px; /* Slightly bigger for visibility */
+    height: 25px;
+    margin-right: 10px;
+    border-radius: 50%; /* Circular flag */
+    object-fit: cover;
+}
+
+
+.imprint{
+    text-align: end;
+    margin-top: 30px;
+    font-size: 12px;
+    color: #ccc;
+    height: 10px;
+}
+.puma-logo{
+    width: 90px;
+    
+}
+.banner-font{
+    left: 65%;
+    bottom: 40%;
+}
+.button-her{
+ position: absolute;
+ left: 75%;
+}
+.button-him{
+ position: absolute;
+ left: 50%; 
+}
+.footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer ul li {
+    margin-bottom: 5px;
+}
+
+.footer ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.accordion-button {
+    background: #111;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    border: none;
+}
+
+.accordion-button:focus {
+    box-shadow: none;
+}
+
+.accordion-body {
+    background: #222;
+}
+
+.accordion-body ul {
+    padding-left: 20px;
+}
+.second-banner-font{
+    position: absolute !important;
+    left: 4%;
+    top: 100%;
+
+}
+.sports-container {
+    max-width: 90%;
+    margin: auto;
+  }
+  .sports-card {
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+  }
+  .sports-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    object-fit: cover;
+  }
+  .overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    text-align: center;
+    padding: 8px;
+    font-weight: bold;
+  }
+
+  
+ 
+    .promo-section {
+      position: relative;
+      width: 100%;
+      height: 80vh;
+      display: flex;
+      align-items: end;
+      justify-content: end;
+    }
+   
+    .promo-title {
+      font-size: 2.5rem;
+      font-weight: bold;
+    }
+    .promo-subtitle {
+      font-size: 1.2rem;
+      margin-bottom: 20px;
+    }
+    .btn-custom {
+      background-color: black;
+      color: white;
+      border-radius: 5px;
+      padding: 10px 20px;
+      text-decoration: none;
+      transition: 0.3s;
+    }
+
+    .promo-text {
+        position: absolute;
+        bottom: 10%;
+        right: 10%;
+        text-align: right; /* Aligns text to the right */
+        color: white;
+        max-width: 400px;
+      }
+
+     
+
+      
